@@ -183,7 +183,7 @@ header nav .form i {
 /* START LANDING */
 .landing{
   background-color:  #1f2021;
-  background-image: url("../image/L1.jpg");
+  background-image: url("../L1.jpg");
   background-size: cover;
   min-height: 100vh;
   position: relative;
@@ -272,7 +272,7 @@ header nav .form i {
   padding-bottom: var(--section-padding);
   height: 600px;
   position: relative;
-  background-image: url("../images/design-features.jpg");
+  background-image: url("../design-features.jpg");
   background-size: cover;
   display: flex;
   align-items: center;
@@ -778,7 +778,7 @@ header nav .form i {
 .subscribe{
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url("../image/praice.jpeg");
+  background-image: url("../praice.jpeg");
   background-size: cover;
   position: relative;
   color: white;
@@ -923,7 +923,7 @@ header nav .form i {
 .footer{
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url("../image/praice.jpeg");
+  background-image: url("../praice.jpeg");
   background-size: cover;
   position: relative;
   color: white;
